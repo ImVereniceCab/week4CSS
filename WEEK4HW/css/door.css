@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(173, 230, 182);
+}
+header {
+  background-color: rgb(207, 97, 93);color: rgb(133, 0, 4);text-align: center;text-decoration-line: underline;
+  text-decoration-style: solid;text-shadow: 2px 2px 5px rgb(234, 255, 187);
+}
+section {
+    background-color: rgba(255, 255, 255, 0.679);color: rgb(58, 0, 128);
+}
+article {
+    background-color: rgba(180, 251, 0, 0.765);color: rgb(36, 36, 104);
+}
+
+aside {
+    background-color: rgba(255, 188, 252, 0.763);color: rgb(67, 1, 1);text-decoration: line-through;
+}
+
+div {
+    background-color: #b59d68b5;color: rgb(255, 238, 238);
+}
+.mint {
+  width: 1000px;
+  margin: auto;
+  border: 3px solid #73AD21;padding: 5px;
+}
